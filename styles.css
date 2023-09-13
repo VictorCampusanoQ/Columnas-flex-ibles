@@ -1,0 +1,27 @@
+.row{
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+    display: flex;
+}
+.col{
+    background-color: darkcyan;
+    color: white;
+    padding: 5px;
+    margin: 2px;
+    flex: 1;
+}
+.col-2{
+    background-color: darkcyan;
+    color: white;
+    padding: 5px;
+    margin: 2px;
+    flex: 2;
+}
+.col-3{
+    background-color: darkcyan;
+    color: white;
+    padding: 5px;
+    margin: 2px;
+    flex: 3;
+}
